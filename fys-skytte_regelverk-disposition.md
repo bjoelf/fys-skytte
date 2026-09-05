@@ -1,4 +1,4 @@
-# 2 Gun Action Shooting – disposition för regelverk
+# 2 Gun Fys Skytte – disposition för regelverk
 
 **Dokumentstatus:** Arbetsdisposition  
 **Version:** 0.1  
